@@ -1,5 +1,5 @@
 from simple import MQTTClient
-import ssl
+import ssl, socket
 from time import sleep
 
 
